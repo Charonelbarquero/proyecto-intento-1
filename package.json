@@ -1,0 +1,18 @@
+{
+  "name": "proyecto-intento-1",
+  "version": "1.0.0",
+  "description": "tarea de prueba",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "topicos avanzados"
+  },
+  "keywords": [
+    "1000Ton3561000Ton356"
+  ],
+  "author": "Charonelbarquero",
+  "license": "ISC"
+}
